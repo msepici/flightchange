@@ -1,4 +1,4 @@
-1. Database Design (Data Types, Keys, Indexes)
+<pre>1. Database Design (Data Types, Keys, Indexes)
 Tables and Relationships:
 •	Routes Table:
 o	Columns: route_id (Primary Key, INT), origin_city_id (INT), destination_city_id (INT), departure_date (DATE)
@@ -91,5 +91,4 @@ Created indexes on key columns like departure_time and composite indexes on freq
 
 Query Optimization:
 Used EXPLAIN ANALYZE to monitor query performance and ensure that indexes were being used effectively.
-
-![image](https://github.com/user-attachments/assets/f859f77d-de77-479c-8c76-928d5908be4c)
+</pre>
