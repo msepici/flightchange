@@ -1,0 +1,63 @@
+# .NET Core
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.lock.json
+
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.sou
+*.tlog
+*.log
+*.lastcodeanalysissucceeded
+TestResults/
+DumpStack.log
+[Tt]emp/
+[Tt]empPE/
+*.tmp
+*.tmp_proj
+*.log
+*.mdf
+*.ldf
+
+# Rider
+.idea/
+*.sln.iml
+
+# JetBrains
+_ReSharper.*
+*.DotSettings.user
+
+# Entity Framework
+*.edmx.sql
+*.designer.cs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.stackdump
+*.swp
+
+# Environment specific files
+.env
+.env.*
+
+# VS Code
+.vscode/
